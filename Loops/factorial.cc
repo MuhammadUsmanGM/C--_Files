@@ -8,5 +8,5 @@ int main(){
     for(int i=1;i<=n;i++){
         pro *=i;
     }
-    cout<<pro;
+    cout<<pro<<endl;
 }
